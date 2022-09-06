@@ -1,6 +1,6 @@
-git remote add origin https://github.com/babyleak/Padalko_11_210.git
-
-
-
+n = int(input())
+sum = 0
+for x in range(n):
+ i = int(input())
  sum += i
 print(sum)
