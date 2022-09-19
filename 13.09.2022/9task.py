@@ -1,0 +1,5 @@
+n = int(input())
+a = input(59)
+print(str(bin(int(a,2)+1))[2:])
+print(str(bin(int(a,2)-1))[2:])
+print(str(bin(int(a,2)*3))[2:])
